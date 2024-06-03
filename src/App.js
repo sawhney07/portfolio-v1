@@ -15,7 +15,7 @@ function App() {
                     className="shrink-0 aspect-square w-[50px]"
                   />
                   <div className="flex-auto self-start mt-3">
-                    Armaan Sawhney
+                    Armaan Sawhneyy
                     <br />
                   </div>
                 </div>
